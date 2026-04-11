@@ -1,0 +1,20 @@
+{
+  "job_id": "26fbc2f3c1ad41",
+  "recovery_id": "rid_92878451fcad44afa46b5dc6705497",
+  "mail_source": "graph",
+  "status": "completed",
+  "exit_code": 0,
+  "account_count": 90,
+  "thread_count": 10,
+  "json_count": 84,
+  "cpa_file_count": 84,
+  "sub2api_count": 84,
+  "sub2api_file_count": 1,
+  "sub2api_file": "sub2api/sub2api_accounts.json",
+  "sub2api_convert_errors": [],
+  "blacklist_count": 0,
+  "blacklist_file_count": 0,
+  "blacklist_file": "",
+  "created_at": "2026-04-10T12:39:26Z",
+  "completed_at": "2026-04-10T12:45:25Z"
+}
