@@ -1,6 +1,11 @@
 # CKM - Codex Key Management
 
-支持 CPA / sub2api / CockpitTools / EasyLLM 格式互转的本地工具。
+CKM（Codex Key Management）是一款免费开源的 OpenAI Codex Token 格式转换工具，专为开发者和 AI 工程师设计。它支持多种主流 token 格式之间的互转，包括 [CPA](https://github.com/router-for-me/CLIProxyAPI)、[sub2api](https://github.com/Wei-Shaw/sub2api)、[CockpitTools](https://github.com/jlcodes99/cockpit-tools) 和 [EasyLLM](https://github.com/libaxuan/EasyLLM)。
+
+## 在线演示
+
+- 🌐 [https://7402cd8c.ckm-156.pages.dev](https://7402cd8c.ckm-156.pages.dev)
+- 🌐 [http://easyai.ccwu.cc/](http://easyai.ccwu.cc/)
 
 ## 部署到 Cloudflare Pages
 
